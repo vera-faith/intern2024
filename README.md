@@ -4,7 +4,7 @@
 
 ### AIEA LabAIEA Lab
 
-#### Jun 2024 - Present · 2 mosJun 2024 to Present · 2 mos
+#### Jun 2024 - Present · 2 mos
 
 ##### Research Assistant under Professor Leilani Gilpin, PhD (MIT).
 
