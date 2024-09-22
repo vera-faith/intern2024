@@ -6,14 +6,16 @@
 
 ---
 
-## Deontic Logic Presantation:
+## Backwards Chaining System for FOL
 
-* Backwards Chaining system for FOL 
+* FOL (First-Order-Logic) is a system used to represent relations between expressions.  
 
-## Implementation and Tests run:
+## Tutorial:
 
-This inforgraphic is a one-page tutorial on how to use Deontic Logic.
-
+* I decided to implement this from scratch using my family members.
+* In my code, I started off with creating a knowledge base, that contains facts of my Father, Mother, and Grandmother and who their children are.
+* Then, I created a simple backward-chaining system to check if a query matches the prompted fact.
+* I tested one false query and one true query and the results were accurate. 
 ---
 
 ## GitHub
